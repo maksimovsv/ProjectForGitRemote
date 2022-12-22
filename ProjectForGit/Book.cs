@@ -10,5 +10,8 @@ namespace ProjectForGit
     {
         //comm1
         // comment fro task7
+
+        // changes for 7 task
+        // changes for 8 task
     }
 }
