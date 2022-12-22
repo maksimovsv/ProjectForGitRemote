@@ -9,5 +9,6 @@ namespace ProjectForGit
     internal class Book
     {
         //comm1
+        // comment fro task7
     }
 }

@@ -9,5 +9,6 @@ namespace ProjectForGit
     internal class UserStorage
     {
         //comm1
+        // comment for task 7
     }
 }
