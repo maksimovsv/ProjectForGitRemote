@@ -10,5 +10,6 @@ namespace ProjectForGit
     internal class User
     {
         //JsonCommentHandling for task7 in User
+        // changes for remote
     }
 }

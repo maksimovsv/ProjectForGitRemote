@@ -4,3 +4,5 @@ Console.WriteLine("Hello, World!");
 
 // changes for 7 task
 // changes for 8 task
+
+// changes for remote
