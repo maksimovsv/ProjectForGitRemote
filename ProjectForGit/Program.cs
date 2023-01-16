@@ -9,3 +9,6 @@ Console.WriteLine("Hello, World!");
 
 // change 1 for task30
 // change 2 for task30
+
+// change 1 for task32
+// change 2 for task32
