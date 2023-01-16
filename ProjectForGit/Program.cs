@@ -6,3 +6,6 @@ Console.WriteLine("Hello, World!");
 // changes for 8 task
 
 // changes for remote
+
+// change 1 for task30
+// change 2 for task30
